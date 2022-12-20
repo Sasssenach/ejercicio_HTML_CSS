@@ -1,0 +1,39 @@
+body{
+    background: rgb(99, 105, 209);
+    max-width: 650px;
+    margin: 0 auto;
+    
+
+}
+
+#encabezado{
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+}
+
+#formulariob{
+    background-color: rgb(96, 225, 224);
+    padding:1%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius : 15px;
+    text-align: center;
+}
+
+#videob{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(216, 210, 225);
+    padding:1%;
+    border-radius : 15px;
+    text-align: center;
+}
+
+#mapab{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(184, 142, 141);
+    border-radius : 15px;
+    
+}
+
